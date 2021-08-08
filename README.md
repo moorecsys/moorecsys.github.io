@@ -1,1 +1,1 @@
-# Tutorial on Multi-Objective Recommender Systems @ KDD 2021
+# Tutorial on Multi-Objective Recommendations @ KDD 2021
