@@ -1,1 +1,34 @@
-# Tutorial on Multi-Objective Recommendations @ KDD 2021
+# Tutorial on Multi-Objective Recommendations
+
+### Schedule @ ACM SIGKDD Conference 2021
+-------------------
+Schedule: Aug. 14, 2021 9:00 AM - 12:00 PM (Singapore Time)
+
+Website: https://moorecsys.github.io/
+
+**Part 1: Multi-Objective Optimization (MOO) by Dr. David (Xuejun) Wang**
+
+Schedule: 09:00 - 10:10 (Singapore Time) with QA: 10:10 - 10:20 (Singapore Time)
+
+* Background and History
+* Multi Objective Optimization (MOO)
+* MOO Solutions
+* Selection of the best solution in Pareto set
+* MOO libraries
+* Summary & QA
+
+Break: 10:20 - 10:30 (Singapore Time)
+
+**Part 2: Recommender Systems with MOO by Dr. Yong Zheng**
+
+Schedule: 10:30 - 11:40 (Singapore Time) with QA: 11:40 - 12:00 (Singapore Time)
+
+* Intro to RecSys
+* Why MOO in RecSys
+* RecSys with MOO: Case Studies
+* Summary, Guideline, Challenges & QA
+
+### Tutorial Materials
+-------------------
+* Slides:
+* Supplementary Materials: 
