@@ -1,6 +1,6 @@
 # Tutorial on Multi-Objective Recommendations
 
-### Schedule @ ACM SIGKDD Conference 2021
+### Schedule @ [ACM SIGKDD Conference 2021](https://kdd.org/kdd2021/)
 -------------------
 Schedule: Aug. 14, 2021 9:00 AM - 12:00 PM (Singapore Time)
 
