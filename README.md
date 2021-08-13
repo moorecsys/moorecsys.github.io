@@ -30,5 +30,5 @@ Schedule: 10:30 - 11:50 with QA: 11:50 - 12:00 (Singapore Time)
 
 ### Tutorial Materials
 -------------------
-* Slides:
-* Supplementary Materials: 
+* Slides: https://github.com/moorecsys/moorecsys.github.io/tree/main/Slides%40KDD2021
+* Supplementary Materials: Yong Zheng, David (Xuejun) Wang. "Multi-Objective Recommendations: A Tutorial". 
