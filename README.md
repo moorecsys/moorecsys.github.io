@@ -21,7 +21,7 @@ Break: 10:20 - 10:30 (Singapore Time)
 
 **Part 2: Recommender Systems with MOO by Dr. Yong Zheng**
 
-Schedule: 10:30 - 11:40 (Singapore Time) with QA: 11:40 - 12:00 (Singapore Time)
+Schedule: 10:30 - 11:50 (Singapore Time) with QA: 11:50 - 12:00 (Singapore Time)
 
 * Intro to RecSys
 * Why MOO in RecSys
