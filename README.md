@@ -8,7 +8,7 @@ Website: https://moorecsys.github.io/
 
 **Part 1: Multi-Objective Optimization (MOO) by Dr. David (Xuejun) Wang**
 
-Schedule: 09:00 - 10:10 (Singapore Time) with QA: 10:10 - 10:20 (Singapore Time)
+Schedule: 09:00 - 10:10 with QA: 10:10 - 10:20 (Singapore Time)
 
 * Background and History
 * Multi Objective Optimization (MOO)
@@ -21,7 +21,7 @@ Break: 10:20 - 10:30 (Singapore Time)
 
 **Part 2: Recommender Systems with MOO by Dr. Yong Zheng**
 
-Schedule: 10:30 - 11:50 (Singapore Time) with QA: 11:50 - 12:00 (Singapore Time)
+Schedule: 10:30 - 11:50 with QA: 11:50 - 12:00 (Singapore Time)
 
 * Intro to RecSys
 * Why MOO in RecSys
