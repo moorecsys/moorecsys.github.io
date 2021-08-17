@@ -31,6 +31,6 @@ Schedule: 10:30 - 11:50 with QA: 11:50 - 12:00 (Singapore Time)
 ### Tutorial Materials
 -------------------
 * Slides: [here](https://github.com/moorecsys/moorecsys.github.io/tree/main/Slides%40KDD2021) 
-* Supplementary Materials: Yong Zheng, David (Xuejun) Wang. "[Multi-Objective Recommendations: A Tutorial](https://arxiv.org/abs/2108.06367)". 
+* Supplementary Materials: Yong Zheng, David (Xuejun) Wang. "[Multi-Objective Recommendations: A Tutorial](https://arxiv.org/abs/2108.06367)". CoRR abs/2108.06367. Aug, 2021
 * Demo: [an example of using open-source MOEA framework on multi-stakeholder recommender systems](https://github.com/irecsys/Tutorial_MSRS)
 
