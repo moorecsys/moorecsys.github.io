@@ -261,12 +261,12 @@
             <h2 class="section-title">Materials</h2>
             <p align="left">
 			<ul style="text-align: left;">
-				<li>Slides: <a href="https://github.com/moorecsys/moorecsys.github.io/tree/main/Slides%40KDD2021" target="_blank">Link</a></li>
+				<li>Slides: <a href="https://github.com/moorecsys/moorecsys.github.io/tree/main/KDD2021/Slides" target="_blank">Link</a></li>
 				
 				<li>Supplementary Materials: 
 				<ul>
 				<li>Yong Zheng, David (Xuejun) Wang. "<a href="https://arxiv.org/abs/2108.06367" target="_blank">Multi-Objective Recommendations: A Tutorial</a>". CoRR abs/2108.06367. Aug, 2021</li>
-				<li>Yong Zheng, David (Xuejun) Wang. "A Survey of Recommender Systems with Multi-Objective Optimization", Neurocomputing, Elsevier, 2022</li>
+				<li>Yong Zheng, David (Xuejun) Wang. "<a href="https://doi.org/10.1016/j.neucom.2021.11.041" target="_blank">A Survey of Recommender Systems with Multi-Objective Optimization</a>", Neurocomputing, Elsevier, 2022</li>
 				</ul>
 				<li>Demo: <a href="https://github.com/irecsys/Tutorial_MSRS" target="_blank">an example of using open-source MOEA framework on multi-stakeholder recommender systems</a>"</li>
 			</ul>
@@ -285,7 +285,7 @@
             <div class="border-top pt-5">
             <p>
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright ©<script>document.write(new Date().getFullYear());</script>2019 All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> . Web traffic by <a href="https://analytics.google.com" target="_blank">Google Analytics</a>.
+        Copyright ©2019 - <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> . Web traffic by <a href="https://analytics.google.com" target="_blank">Google Analytics</a>.
         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
       </p>
             </div>
