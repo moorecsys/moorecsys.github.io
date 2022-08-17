@@ -994,10 +994,19 @@ h1, h2, h3, h4, h5,
 
 .courses-title {
   padding-bottom: 13rem;
-  background: #7971ea; }
+  background: #FF9966; }
   .courses-title .section-title {
     color: #fff; }
+	
+	
+.programs {
+  padding-bottom: 13rem;
+  background: #6699ff; }
+  .programs .section-title {
+    color: #fff; }
 
+	
+	
 .courses-entry-wrap {
   margin-top: -282px; }
   @media (max-width: 1199.98px) {
