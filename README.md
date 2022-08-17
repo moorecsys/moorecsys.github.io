@@ -1,36 +1,11 @@
-# Tutorial on Multi-Objective Recommendations
+### Tutorials
 
-### Schedule @ [ACM SIGKDD Conference 2021](https://kdd.org/kdd2021/)
--------------------
-Schedule: Aug. 14, 2021 9:00 AM - 12:00 PM (Singapore Time)
+* Tutorial on Multi-Objective Recommendations @ [ACM SIGKDD 2021](https://moorecsys.github.io/KDD2021/index.html)
+* Tutorial on Multi-Objective Optimization & Recommendations @ [IEEE ICDM 2022](https://moorecsys.github.io/ICDM2022/index.html)
 
-Website: https://moorecsys.github.io/
 
-**Part 1: Multi-Objective Optimization (MOO) by Dr. David (Xuejun) Wang**
+### Materials
 
-Schedule: 09:00 - 10:10 with QA: 10:10 - 10:20 (Singapore Time)
-
-* Background and History
-* Multi Objective Optimization (MOO)
-* MOO Solutions
-* Selection of the best solution in Pareto set
-* MOO libraries
-* Summary & QA
-
-Break: 10:20 - 10:30 (Singapore Time)
-
-**Part 2: Recommender Systems with MOO by Dr. Yong Zheng**
-
-Schedule: 10:30 - 11:50 with QA: 11:50 - 12:00 (Singapore Time)
-
-* Intro to RecSys
-* Why MOO in RecSys
-* RecSys with MOO: Case Studies
-* Summary, Guideline, Challenges & QA
-
-### Tutorial Materials
--------------------
-* Slides: [here](https://github.com/moorecsys/moorecsys.github.io/tree/main/Slides%40KDD2021) 
 * Supplementary Materials
   * Yong Zheng, David (Xuejun) Wang. "[Multi-Objective Recommendations: A Tutorial](https://arxiv.org/abs/2108.06367)". CoRR abs/2108.06367. Aug, 2021
   * Yong Zheng, David (Xuejun) Wang. "[A Survey of Recommender Systems with Multi-Objective Optimization](https://www.sciencedirect.com/science/article/pii/S0925231221017185)", Neurocomputing, Elsevier, 2022
